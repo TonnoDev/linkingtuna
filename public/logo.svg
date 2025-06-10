@@ -1,0 +1,27 @@
+<svg viewBox="0 0 820 200" width="820" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradiente mare -->
+    <linearGradient id="oceanGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0077be"></stop>
+      <stop offset="100%" stop-color="#00c2cb"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Parola "Linking" -->
+  <text x="50" y="135" font-family="Montserrat, sans-serif" font-size="72" fill="url(#oceanGradient)" letter-spacing="1">
+    Linking
+  </text>
+
+  <!-- Pesce minimalista come "T" -->
+  <g transform="translate(435, 70)">
+    <path d="M0,20 Q12,0 34,0 Q45,10 55,20 Q45,30 34,40 Q12,40 0,20 Z" fill="url(#oceanGradient)"></path>
+    <circle cx="10" cy="20" r="2.5" fill="white"></circle>
+    <!-- Coda del pesce -->
+    <path d="M55,20 L70,10 L70,30 Z" fill="url(#oceanGradient)"></path>
+  </g>
+
+  <!-- Resto della parola "una" -->
+  <text x="515" y="135" font-family="Montserrat, sans-serif" font-size="72" fill="url(#oceanGradient)" letter-spacing="1">
+    una
+  </text>
+</svg>
