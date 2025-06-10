@@ -1,6 +1,5 @@
-# 🌐 My Social Hub
-
-Welcome to **My Social Hub**, a simple and elegant web platform that brings together all of my social media profiles in one place. This site is designed to make it easier and faster for anyone to navigate through my online presence.
+# 🌐 LinkingTuna
+Welcome to **LinkingTuna**, a simple and elegant web platform that brings together all of my social media profiles in one place. This site is designed to make it easier and faster for anyone to navigate through my online presence.
 
 ---
 
