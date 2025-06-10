@@ -12,7 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <code> Welcome to <b>Tuna :D</b> web site!{" "}</code>
+        <code> Welcome to <b>Tuna :D</b> web site!</code>
         On this site I have linked my social network accounts
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
